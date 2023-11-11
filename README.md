@@ -1,25 +1,7 @@
+# Sinduja S
 ## Data Scientist
-### Technical Skills: Python, SQL, MATLAB
-  
-## Education							       		
-  - MSc Data Science and Analytics <br>
-      Royal Holloway University of London, United Kingdom
-  - BTech Electronics and Communication Engineering <br>
-      SASTRA University, India
-  
-## Work Experience
-**Analytics Team Lead @ Tata Consultancy Services(_Apr 2022 - Present_)**
-  - Led and mentored a dedicated team of 9 data analysts entrusted with the complex task of analysing extensive datasets, leading to a 15% increase in customer query resolution.
-  - Developed a Cost vs. Revenue Analytics Dashboard, reducing monthly and quarterly revenue calculation time by 4-5 hours, resulting in substantial cost savings, while providing senior leadership with an intuitive tool to access financial information and make data-driven decisions.
-  - Conducted a comprehensive proof of concept (POC) focused on understanding customer retention patterns. By implementing and analyzing machine learning models, the POC provided valuable insights that led to a 15% improvement in customer retention and a notable 10% increase in customer satisfaction scores.
-  
-**Project Manager @ Tata Consultancy Services (_Apr 2019 - Mar 2020_)**
-  - Successfully managed cross-functional teams of 80+ members, overseeing projects encompassing mainframe system enhancements, web development,  ServiceNow implementation, and pricing projects.
-  - Attained exceptional outcomes, including maintaining 100% customer satisfaction over three consecutive periods, executing a focus exit migration, leading annual physical inventory activity, managing month-end invoicing procedures, and actively participating in team appraisals to drive performance and foster growth.
-  - Acted as an Agile Coach, guiding teams in adopting agile methodologies, facilitating sprint planning, daily scrum, and retrospectives. This transition to agile practices improved project transparency and delivery speed, with a 30% reduction in project lead time.
-  
-#### Previous Roles : IT Compliance Lead/Analyst, Business Analyst, Programmer
-  
+**Technical Skills: Python, SQL, MATLAB**
+
 ## Projects
 ### Gems Price Prediction Using Linear Regression
 ###### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
@@ -50,8 +32,5 @@
  3. Translated the analyzed data into actionable strategies for business and decision-making
 ###### Skills & Tools Used : python, descriptiove statistics, framing an analytics problem
   
-## Certifications
-- Project Management Professional (PMP), PMI Institute.
-- Professional Scrum Master II & Professional Scrum Product Owner II , Scrum.org
-- Certified Japanese Sarbanes Oxley Expert (CJSOXE), Sarbanes-Oxley Compliance Professional Association (SOXCPA™)
+
   
