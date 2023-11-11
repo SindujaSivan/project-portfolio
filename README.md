@@ -1,4 +1,9 @@
-## Projects
+# Projects
+**Category**
+- [Data Analysis](#data-analysis)
+- [Visualization](#visualization)
+
+## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
 ##### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 
@@ -12,7 +17,7 @@
 
 <div style="display:flex; align-items:center;">
   <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
-  <p align="justify" style="vertical-align:top;">Executed a dynamic project focused on predicting Holiday Package preferences employing advanced statistical techniques, specifically Logistic Regression and Linear Discriminative Analysis. Employing Logistic Regression, I precisely modeled and predicted the likelihood of customers opting for specific holiday packages based on a myriad of factors.</p>
+  <p align="justify" style="vertical-align:middle;">Executed a dynamic project focused on predicting Holiday Package preferences employing advanced statistical techniques, specifically Logistic Regression and Linear Discriminative Analysis. Employing Logistic Regression, I precisely modeled and predicted the likelihood of customers opting for specific holiday packages based on a myriad of factors.</p>
 </div>
 
 ### [3. Market Segmentation using Clustering and PCA](https://link-to-your-project) 
@@ -22,7 +27,8 @@
   <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
 <p align="justify" style="vertical-align:middle;"> Conducted a comprehensive project in Market Segmentation utilizing advanced techniques such as Exploratory Data Analysis (EDA), clustering, and Principal Component Analysis (PCA). Through EDA, intricate patterns within complex datasets were unveiled, providing profound insights into underlying structures. Applied sophisticated clustering techniques to meticulously segment Digital Marketing Advertisement data, empowering the formulation of highly targeted marketing strategies. </p>
 </div>
-  
+
+## Visualization
 ### [4. E-Commerce Revenue Management](https://link-to-your-project) 
 ##### Skills & Tools Used : numpy, pandas, visualisation, user defined functions
 
