@@ -2,8 +2,10 @@
 ### Technical Skills: Python, SQL, MATLAB
   
 ## Education							       		
-  - MSc Data Science and Analytics	| Royal Holloway University of London, United Kingdom
-  - BTech Electronics and Communication Engineering | SASTRA University, India
+  - MSc Data Science and Analytics <br>
+      Royal Holloway University of London, United Kingdom
+  - BTech Electronics and Communication Engineering <br>
+      SASTRA University, India
   
 ## Work Experience
 **Analytics Team Lead @ Tata Consultancy Services(_Apr 2022 - Present_)**
