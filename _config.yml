@@ -6,3 +6,8 @@ logo: /assets/dv.jpg
 linkedin: https://www.linkedin.com/in/your-linkedin-username
 # theme: jekyll-theme-dinky
 theme: jekyll-theme-leap-day
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+
