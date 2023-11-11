@@ -1,4 +1,3 @@
-# Sinduja S
 ## Data Scientist
 **Technical Skills: Python, SQL, MATLAB**
 
