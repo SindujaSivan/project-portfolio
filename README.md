@@ -9,7 +9,7 @@
 
 <div style="display:flex; align-items:center;">
   <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
-  <p align="justify" style="vertical-align:middle;">Executed a dynamic project focused on predicting Holiday Package preferences employing advanced statistical techniques, specifically Logistic Regression and Linear Discriminative Analysis. Employing Logistic Regression, I precisely modeled and predicted the likelihood of customers opting for specific holiday packages based on a myriad of factors.</p>
+  <p align="justify" style="vertical-align:top;">Executed a dynamic project focused on predicting Holiday Package preferences employing advanced statistical techniques, specifically Logistic Regression and Linear Discriminative Analysis. Employing Logistic Regression, I precisely modeled and predicted the likelihood of customers opting for specific holiday packages based on a myriad of factors.</p>
 </div>
 
 
