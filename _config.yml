@@ -2,4 +2,6 @@ title: Sinduja S
 logo: /assets/dv.jpg
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimale
+linkedin: https://www.linkedin.com/in/your-linkedin-username
+theme: jekyll-theme-minima
