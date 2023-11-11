@@ -4,4 +4,4 @@ logo: /assets/dv.jpg
 #show_downloads: true
 # theme: jekyll-theme-minimale
 linkedin: https://www.linkedin.com/in/your-linkedin-username
-theme: minima
+theme: jekyll-theme-dinky
