@@ -1,13 +1,16 @@
-title: Sinduja S
+title: Sainath S
 # logo: /assets/dv.jpg
 description: Data Scientist
-description: Skills: SQL | Python | MATLAB
-[https://www.linkedin.com/in/abc](https://www.linkedin.com/in/yourusername)
+skills: SQL | Python | MATLAB
+linkedin: [https://www.linkedin.com/in/abc](https://www.linkedin.com/in/yourusername)
+# show_downloads: true
+theme: Jekyll-theme-minimal
+
+
 #show_downloads: true
 theme: jekyll-theme-minimal
 
 # theme: jekyll-theme-cayman
-
 # theme: jekyll-theme-dinky
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-architect
