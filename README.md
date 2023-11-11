@@ -14,14 +14,12 @@
 
 <p align ='justify'> Conducted a comprehensive project in Market Segmentation utilizing advanced techniques such as Exploratory Data Analysis (EDA), clustering, and Principal Component Analysis (PCA). Through EDA, intricate patterns within complex datasets were unveiled, providing profound insights into underlying structures. Applied sophisticated clustering techniques to meticulously segment Digital Marketing Advertisement data, empowering the formulation of highly targeted marketing strategies. </p>
   
-### 4. E-Commerce Revenue Management
-[View Project](https://www.linkedin.com/in/yourusername)
+### [4. E-Commerce Revenue Management](https://link-to-your-project) 
 ##### Skills & Tools Used : numpy, pandas, visualisation, user defined functions
 
 <p align ='justify'> Revitalized business intelligence for an E-Commerce Company by implementing a sophisticated analytical solution aimed at optimizing critical performance metrics. Utilizing Python for Data Science, I addressed a revenue management challenge and strategically identified the highest sales-generating region, discerned optimal product categories, calculated the company's overall revenue, and scrutinized brand performance on its platform. </p>
 
-### 5. Perform Exploratory Data Analysis Using Statistical Methods
-[View Project](https://www.linkedin.com/in/yourusername)
+### [5. Perform Exploratory Data Analysis Using Statistical Methods](https://link-to-your-project) 
 ##### Skills & Tools Used : python, descriptive statistics, framing an analytics problem
 
 <p align ='justify'> Executed a comprehensive Exploratory Data Analysis (EDA) project, employing advanced statistical methods to extract actionable insights from complex datasets.Leveraging a variety of statistical methodologies, the project delved deep into the intricacies of the dataset, extracting meaningful and relevant conclusions. This included measures of central tendency, dispersion, and correlation, among others, to paint a holistic picture of the data landscape. </p>
