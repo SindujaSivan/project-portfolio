@@ -3,8 +3,9 @@ logo: /assets/dv.jpg
 #description: text below image
 #show_downloads: true
 # theme: jekyll-theme-minimale
-linkedin: https://www.linkedin.com/in/your-linkedin-username
+theme: jekyll-theme-cayman
+# linkedin: https://www.linkedin.com/in/your-linkedin-username
 # theme: jekyll-theme-dinky
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 
 
