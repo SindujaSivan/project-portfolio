@@ -1,4 +1,5 @@
   # Sinduja S
+  
   ## Data Scientist
   - Technical Skills: Python, SQL, MATLAB
   
@@ -7,6 +8,7 @@
   - BTech Electronics and Communication Engineering | SASTRA University, India
   
   ## Work Experience
+  
   **Analytics Team Lead @ Tata Consultancy Services(_Apr 2022 - Present_)**
   - Led and mentored a dedicated team of 9 data analysts entrusted with the complex task of analysing extensive datasets, leading to a 15% increase in customer query resolution.
   - Developed a Cost vs. Revenue Analytics Dashboard, reducing monthly and quarterly revenue calculation time by 4-5 hours, resulting in substantial cost savings, while providing senior leadership with an intuitive tool to access financial information and make data-driven decisions.
