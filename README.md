@@ -1,15 +1,19 @@
 ## Projects
-### [Gems Price Prediction Using Linear Regression] (https://www.linkedin.com/in/yourusername)
+### Gems Price Prediction Using Linear Regression
+[Gems Price Prediction Using Linear Regression](https://www.linkedin.com/in/yourusername)
+
 ###### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 1.
 2.
 
-### [Holiday Package Prediction Using Logistic Regression & Linear Discriminative Analysis] (https://www.linkedin.com/in/yourusername)
+### Holiday Package Prediction Using Logistic Regression & Linear Discriminative Analysis
+[Holiday Package Prediction Using Logistic Regression & Linear Discriminative Analysis] (https://www.linkedin.com/in/yourusername)
 ###### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 1. f
 2. j
 
-### [Market Segmentation using Clustering and PCA] (https://www.linkedin.com/in/yourusername)
+### Market Segmentation using Clustering and PCA 
+[Market Segmentation using Clustering and PCA] (https://www.linkedin.com/in/yourusername)
 ###### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 1. Utilized Exploratory Data Analysis (EDA) to uncover insights from complex datasets.
 2. Applied clustering techniques to segment and analyze Digital Marketing Advertisement data, enabling more targeted marketing strategies.
@@ -17,7 +21,8 @@
 4. Demonstrated a strong command of data science techniques for informed decision-making.
 5. Performed data preprocessing, cleaning, and visualization to derive actionable insights from diverse datasets.
   
-### [E-Commerce Revenue Management](https://www.linkedin.com/in/yourusername)
+### E-Commerce Revenue Management
+[E-Commerce Revenue Management](https://www.linkedin.com/in/yourusername)
 ###### Skills & Tools Used : numpy, pandas, visualisation, user defined functions
  1. Implemented an analytical solution to enhance business intelligence for an E-Commerce Company, focusing on critical performance metrics. 
  2. Applied Python for Data Science techniques to tackle a business problem related to E-Commerce revenue management.
@@ -26,7 +31,8 @@
  5. Leveraged data visualization to present insights effectively, enabling data-driven decision-making. 
  6. Demonstrated the ability to create user-defined functions to streamline data analysis processes, improving efficiency and accuracy. 
 
-### [Perform Exploratory Data Analysis Using Statistical Methods] (https://www.linkedin.com/in/yourusername)
+### Perform Exploratory Data Analysis Using Statistical Methods
+[Perform Exploratory Data Analysis Using Statistical Methods] (https://www.linkedin.com/in/yourusername)
 ###### Skills & Tools Used : python, descriptiove statistics, framing an analytics problem
  1. Analyzed and explored data to derive actionable insights, contributing to data-informed decision-making processes.
  2. Leveraged statistical methodologies to extract meaningful conclusions from complex datasets.
