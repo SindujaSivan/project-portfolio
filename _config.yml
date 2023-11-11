@@ -1,20 +1,25 @@
----
-title: Sainath S
-description: Data Scientist
-skills: SQL | Python | MATLAB
-theme: Jekyll-theme-minimal
-people:
-  - name: John Doe
-    age: 30
-    occupation: Engineer
-    languages:
-      - English
-      - Spanish
+theme: jekyll-theme-minimal
 
-  - name: Alice Smith
-    age: 25
-    occupation: Designer
-    languages:
-      - English
-      - French
----
+# Site settings
+title: Sainath
+description: Data Scientist
+baseurl: "/repository-name" # If your site is hosted in a subdirectory
+
+# URL settings
+url: "https://www.linkedin.com/in/SindujaSivasailam" # Replace with your GitHub Pages URL
+
+# Navigation
+navbar:
+  title: Data Science Project
+  items:
+    - text: Home
+      url: /
+    - text: About
+      url: /about
+
+# Footer
+footer:
+  text: "Copyright © 2023 Your Name"
+
+# Other configurations
+markdown: kramdown
