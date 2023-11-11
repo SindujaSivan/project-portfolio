@@ -3,5 +3,18 @@ title: Sainath S
 description: Data Scientist
 skills: SQL | Python | MATLAB
 theme: Jekyll-theme-minimal
----
+people:
+  - name: John Doe
+    age: 30
+    occupation: Engineer
+    languages:
+      - English
+      - Spanish
 
+  - name: Alice Smith
+    age: 25
+    occupation: Designer
+    languages:
+      - English
+      - French
+---
