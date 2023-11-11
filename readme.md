@@ -1,6 +1,6 @@
-  # Data Scientist
-  
-  #### Technical Skills: Python, SQL, MATLAB
+  # Sinduja S
+  ## Data Scientist
+  - Technical Skills: Python, SQL, MATLAB
   
   ## Education							       		
   - MSc Data Science and Analytics	| Royal Holloway University of London, United Kingdom
