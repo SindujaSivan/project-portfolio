@@ -1,18 +1,15 @@
 ## Projects
-### 1. Gems Price Prediction Using Linear Regression
-[View Project](https://www.linkedin.com/in/yourusername)
+### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
 ##### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 
 <p align ='justify'> Conducted a comprehensive Gems Price Prediction project utilizing Linear Regression, a powerful statistical technique. Leveraging a dataset encompassing diverse gem characteristics, I engineered and fine-tuned a Linear Regression model to accurately forecast gem prices based on key attributes. </p>
 
-### 2. Holiday Package Prediction Using Logistic Regression & Linear Discriminative Analysis
-[View Project](https://www.linkedin.com/in/yourusername)
+### [2. Holiday Package Prediction using Logistic Regression & Linear Discriminative Analysis](https://link-to-your-project) 
 ##### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 
 <p align ='justify'> Executed a dynamic project focused on predicting Holiday Package preferences employing advanced statistical techniques, specifically Logistic Regression and Linear Discriminative Analysis. Employing Logistic Regression, I precisely modeled and predicted the likelihood of customers opting for specific holiday packages based on a myriad of factors. </p>
 
-### 3. Market Segmentation using Clustering and PCA 
-[View Project](https://www.linkedin.com/in/yourusername)
+### [3. Market Segmentation using Clustering and PCA](https://link-to-your-project) 
 ##### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
 
 <p align ='justify'> Conducted a comprehensive project in Market Segmentation utilizing advanced techniques such as Exploratory Data Analysis (EDA), clustering, and Principal Component Analysis (PCA). Through EDA, intricate patterns within complex datasets were unveiled, providing profound insights into underlying structures. Applied sophisticated clustering techniques to meticulously segment Digital Marketing Advertisement data, empowering the formulation of highly targeted marketing strategies. </p>
