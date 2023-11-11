@@ -25,7 +25,7 @@ Revitalized business intelligence for an E-Commerce Company by implementing a so
 
 ### 5. Perform Exploratory Data Analysis Using Statistical Methods
 [View Project](https://www.linkedin.com/in/yourusername)
-##### Skills & Tools Used : python, descriptiove statistics, framing an analytics problem
+##### Skills & Tools Used : python, descriptive statistics, framing an analytics problem
 
 Executed a comprehensive Exploratory Data Analysis (EDA) project, employing advanced statistical methods to extract actionable insights from complex datasets.Leveraging a variety of statistical methodologies, the project delved deep into the intricacies of the dataset, extracting meaningful and relevant conclusions. This included measures of central tendency, dispersion, and correlation, among others, to paint a holistic picture of the data landscape.
 
