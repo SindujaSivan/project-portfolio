@@ -1,6 +1,3 @@
-## Data Scientist
-**Technical Skills: Python, SQL, MATLAB**
-
 ## Projects
 ### Gems Price Prediction Using Linear Regression
 ###### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
