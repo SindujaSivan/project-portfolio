@@ -1,4 +1,4 @@
-# Projects
+## Projects
 **Category**
 - [Data Analysis](#data-analysis)
 - [Visualization](#visualization)
