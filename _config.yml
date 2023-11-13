@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Sinduja S
 description: >
-  <h3>Data Scientist</h3>
+  <h2>Data Scientist</h2>
   <p>
     <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank"> Sinduja S</a> 
     <br>
@@ -23,7 +23,5 @@ description: >
     <br>
     <br>
     <br>
-    <br>
-    <br
   </p>
 ---
