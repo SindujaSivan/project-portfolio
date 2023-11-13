@@ -1,35 +1,17 @@
 theme: jekyll-theme-minimal
-
-# Site settings
 title: Sinduja S
-# description: [sinduja LinkedIn](https://www.linkedin.com/in/SindujaSivasailam)
-# baseurl: "/repository-name" # If your site is hosted in a subdirectory
-
-# URL settings
-# url: "https://www.linkedin.com/in/SindujaSivasailam" # Replace with your GitHub Pages URL
-# description: "Sinduja's LinkedIn profile: [Sinduja Sivasailam on LinkedIn](https://www.linkedin.com/in/SindujaSivasailam)"
 description: >
-  <p> <h3> Data Scientist </h3> <br>
-  <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank"> LinkedIn : Sinduja S</a> <br>
-  <b> Skills: </b>
-  <ul>
-  <li>SQL</li>
-  <li>Python</li>
-  <li>Data Analysis</li>
-  <li>Machine Learning</li>
-  <li>Data Visualization</li>
-</ul>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <h3>Data Scientist</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank">LinkedIn: Sinduja S</a>
+    <br>
+    <b>Skills:</b>
+    <ul>
+      <li>SQL</li>
+      <li>Python</li>
+      <li>Data Analysis</li>
+      <li>Machine Learning</li>
+      <li>Data Visualization</li>
+    </ul>
   </p>
-
+---
