@@ -10,8 +10,15 @@ title: Sinduja S
 # description: "Sinduja's LinkedIn profile: [Sinduja Sivasailam on LinkedIn](https://www.linkedin.com/in/SindujaSivasailam)"
 description: >
   <p> <h3> Data Scientist </h3> <br>
-  <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank"> Sinduja's LinkedIn </a> <br>
-  <b> Skills: </b>  SQL | Python | Data Analysis | Machine Learning |  Data Visualisation
+  <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank"> LinkedIn : Sinduja S</a> <br>
+  <b> Skills: </b>
+  <ul>
+  <li>SQL</li>
+  <li>Python</li>
+  <li>Data Analysis</li>
+  <li>Machine Learning</li>
+  <li>Data Visualization</li>
+</ul>
   <br>
   <br>
   <br>
@@ -24,6 +31,5 @@ description: >
   <br>
   <br>
   <br>
-  
   </p>
 
