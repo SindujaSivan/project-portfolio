@@ -1,6 +1,5 @@
 <p> 
 <br>
-<br>
 <hr style="border: .1px solid grey;">
 </p>
 
