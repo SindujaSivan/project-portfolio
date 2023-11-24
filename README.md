@@ -58,7 +58,7 @@
 ##### Skills & Tools Used : pandas, requests, BeautifulSoup, re, nltk, stopwords, WordCloud, string, matplotlib.pyplot
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+  <img src="assets/wordcloud.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
 <p align="justify" style="vertical-align:middle;"> The project aims to address the challenge of efficiently analyzing and visualizing the sentiments expressed by different authors in the quotes by conducting sentiment analysis on a collection of quotes gathered from a prominent quote website. Through web scraping, we have obtained a dataset containing quotes along with their respective authors. The primary goal is to explore the sentiments conveyed by these authors and visualize the emotional tone of their quotes. </p>
 </div>
 
