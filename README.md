@@ -67,6 +67,6 @@
 ##### Skills & Tools Used : numpy, pandas
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+  <img src="assets/Forbes_College_Image_2019.png" alt="Forbes College Image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
 <p align="justify" style="vertical-align:middle;"> Executed a comprehensive Exploratory Data Analysis (EDA) project, employing advanced statistical methods to extract actionable insights from complex datasets.Leveraging a variety of statistical methodologies, the project delved deep into the intricacies of the dataset, extracting meaningful and relevant conclusions. This included measures of central tendency, dispersion, and correlation, among others, to paint a holistic picture of the data landscape. </p>
 </div>
