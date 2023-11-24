@@ -52,7 +52,7 @@
 </div>
 
 ## Python
-### [6. Python College Analytics](https://github.com/SindujaSivan/Python-College-Analytics) 
+### [6. Python College Analytics](https://sindujasivan.github.io/Python-College-Analytics/)
 ##### Skills & Tools Used : numpy, pandas
 
 <div style="display:flex; align-items:center;">
