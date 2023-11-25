@@ -47,8 +47,8 @@
 </div>
 
 ## Deep Learning
-### [5. Image Classification Using InceptionV3](https://sindujasivan.github.io/PretrainInceptionV3-ImageClassification/) 
-##### Skills & Tools Used : TensorFlow and Keras, Pandas, Matplotlib
+### [5. Image Classification Using InceptionV3](https://sindujasivan.github.io/pretrained-inceptionv3-image-classification/) 
+##### Skills & Tools Used : TensorFlow and Keras, pandas, Matplotlib
 
 <div style="display:flex; align-items:center;">
   <img src="assets/Picture_recognition.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
