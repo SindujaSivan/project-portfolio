@@ -17,13 +17,13 @@
     </div>
     <div style="width: 30%;">
         <!-- Column 3 content goes here -->
-        [Deep Learning](#DeepLearning) 
+        [Deep Learning](#deeplearning) 
     </div>
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%;">
         <!-- Column 1 content goes here -->
-       [Text Analytics](#TextAnalytics)
+       [Text Analytics](#textanalytics)
     </div>
     <div style="width: 30%;">
         <!-- Column 2 content goes here -->
@@ -31,7 +31,7 @@
     </div>
     <div style="width: 30%;">
         <!-- Column 3 content goes here -->
-        [Deep Learning](#DeepLearning) 
+        [Deep Learning](#deeplearning) 
     </div>
 </div>
 <br>
