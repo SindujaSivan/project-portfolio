@@ -6,9 +6,9 @@
 ## Projects
 **Category**
 
-[Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Visualization](#visualization) &nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
+[Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Visualization](#visualization) &nbsp;&nbsp;&nbsp;[Deep Learning](#deep-learning)
 
-[Text Analytics](#textanalytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
+[Text Analytics](#text-analytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
