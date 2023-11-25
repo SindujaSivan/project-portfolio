@@ -3,8 +3,6 @@
 <hr style="border: .1px solid grey;">
 </p>
 
-
-
 ## Projects
 **Category**
 
@@ -13,7 +11,6 @@
 [Text Analytics](#textanalytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
 
 <br>
-
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
