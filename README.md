@@ -34,6 +34,7 @@
         - [Deep Learning](#DeepLearning) 
     </div>
 </div>
+<br>
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
