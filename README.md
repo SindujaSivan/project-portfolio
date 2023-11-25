@@ -5,24 +5,33 @@
 
 ## Projects
 **Category**
-- [Data Analysis](#data-analysis)
-- [Visualization](#visualization)
-- [Deep Learning](#DeepLearning)  
-- [Text Analytics](#TextAnalytics)
-- [Python](#python)
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%;">
         <!-- Column 1 content goes here -->
-        This is column 1.
+        - [Data Analysis](#data-analysis)
     </div>
     <div style="width: 30%;">
         <!-- Column 2 content goes here -->
-        This is column 2.
+        - [Visualization](#visualization)
     </div>
     <div style="width: 30%;">
         <!-- Column 3 content goes here -->
-        This is column 3.
+        - [Deep Learning](#DeepLearning) 
+    </div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 30%;">
+        <!-- Column 1 content goes here -->
+       - [Text Analytics](#TextAnalytics)
+    </div>
+    <div style="width: 30%;">
+        <!-- Column 2 content goes here -->
+        - [Python](#python)
+    </div>
+    <div style="width: 30%;">
+        <!-- Column 3 content goes here -->
+        - [Deep Learning](#DeepLearning) 
     </div>
 </div>
 
