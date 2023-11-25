@@ -4,39 +4,14 @@
 </p>
 
 
-[Data Analysis](#data-analysis) 
 
 ## Projects
 **Category**
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%;">
-        <!-- Column 1 content goes here -->
-        [Data Analysis](#data-analysis)
-    </div>
-    <div style="width: 30%;">
-        <!-- Column 2 content goes here -->
-        [Visualization](#visualization)
-    </div>
-    <div style="width: 30%;">
-        <!-- Column 3 content goes here -->
-        [Deep Learning](#deeplearning) 
-    </div>
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%;">
-        <!-- Column 1 content goes here -->
-       [Text Analytics](#textanalytics)
-    </div>
-    <div style="width: 30%;">
-        <!-- Column 2 content goes here -->
-        [Python](#python)
-    </div>
-    <div style="width: 30%;">
-        <!-- Column 3 content goes here -->
-        [Deep Learning](#deeplearning) 
-    </div>
-</div>
+[Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Visualization](#visualization) &nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
+
+[Text Analytics](#textanalytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
+
 <br>
 
 
