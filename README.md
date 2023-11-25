@@ -47,12 +47,12 @@
 </div>
 
 ## Deep Learning
-### [5. Pretrained Model (InceptionV3) Image Classification](https://sindujasivan.github.io/PretrainInceptionV3-ImageClassification/) 
+### [5. Image Classification Using InceptionV3](https://sindujasivan.github.io/PretrainInceptionV3-ImageClassification/) 
 ##### Skills & Tools Used : TensorFlow and Keras, Pandas, Matplotlib
 
 <div style="display:flex; align-items:center;">
   <img src="assets/Picture_recognition.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
-<p align="justify" style="vertical-align:middle;"> "RainbowFlowerArt" is an engaging Python project utilizing the Turtle graphics library to animate the creation of a vivid and dynamic flower. The program draws a blossoming flower with six petals, each showcasing a vibrant color spectrum reminiscent of a rainbow. Through a seamless blend of geometric patterns and color transitions, the project offers an interactive and visually captivating exploration of artistic expression using programming. </p>
+<p align="justify" style="vertical-align:middle;">This project involves developing an image classification and recognition system using the InceptionV3 deep learning model. Through transfer learning, the model is fine-tuned on a custom dataset for accurate classification. The user-friendly interface accepts image inputs, displaying detailed tabular results with top predictions and probabilities, accompanied by a visual representation of the classified images. The project aims to deliver an accessible and comprehensive tool for image understanding and classification. </p>
 </div>
 
 ## Text Analytics 
