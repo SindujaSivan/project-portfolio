@@ -10,28 +10,31 @@
 **Category**
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%;">
-       
-[Data Analysis](#data-analysis)
+    <div style="width: 30%;">    
         
+[Data Analysis](#data-analysis)
     </div>
-    <div style="width: 30%;">
+    <div style="width: 30%;">    
     
 [Visualization](#visualization)
     </div>
     <div style="width: 30%;">
+    
 [Deep Learning](#deeplearning) 
     </div>
 </div>
+
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%;">
 
 [Text Analytics](#textanalytics)
     </div>
     <div style="width: 30%;">
-        [Python](#python)
+    
+[Python](#python)
     </div>
     <div style="width: 30%;">
+    
 [Deep Learning](#deeplearning) 
     </div>
 </div>
