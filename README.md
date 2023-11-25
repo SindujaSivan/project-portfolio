@@ -11,6 +11,20 @@
 - [Text Analytics](#TextAnalytics)
 - [Python](#python)
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 30%;">
+        <!-- Column 1 content goes here -->
+        This is column 1.
+    </div>
+    <div style="width: 30%;">
+        <!-- Column 2 content goes here -->
+        This is column 2.
+    </div>
+    <div style="width: 30%;">
+        <!-- Column 3 content goes here -->
+        This is column 3.
+    </div>
+</div>
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
