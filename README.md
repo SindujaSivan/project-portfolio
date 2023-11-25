@@ -10,8 +10,6 @@
 
 [Text Analytics](#textanalytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
 
-<br>
-
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
 ##### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
