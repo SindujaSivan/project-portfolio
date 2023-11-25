@@ -10,35 +10,35 @@
 **Category**
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%;">    
-        
-[Data Analysis](#data-analysis)
-    </div>
-    <div style="width: 30%;">    
-    
-[Visualization](#visualization)
+    <div style="width: 30%;">
+        <!-- Column 1 content goes here -->
+        [Data Analysis](#data-analysis)
     </div>
     <div style="width: 30%;">
-    
-[Deep Learning](#deeplearning) 
+        <!-- Column 2 content goes here -->
+        [Visualization](#visualization)
+    </div>
+    <div style="width: 30%;">
+        <!-- Column 3 content goes here -->
+        [Deep Learning](#deeplearning) 
     </div>
 </div>
-
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%;">
-
-[Text Analytics](#textanalytics)
+        <!-- Column 1 content goes here -->
+       [Text Analytics](#textanalytics)
     </div>
     <div style="width: 30%;">
-    
-[Python](#python)
+        <!-- Column 2 content goes here -->
+        [Python](#python)
     </div>
     <div style="width: 30%;">
-    
-[Deep Learning](#deeplearning) 
+        <!-- Column 3 content goes here -->
+        [Deep Learning](#deeplearning) 
     </div>
 </div>
 <br>
+
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
