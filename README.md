@@ -49,7 +49,7 @@
 ##### Skills & Tools Used : turtle, colorsys
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/Turtle_Floral.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+  <img src="assets/Turtle_Floral.png" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
 <p align="justify" style="vertical-align:middle;"> "RainbowFlowerArt" is an engaging Python project utilizing the Turtle graphics library to animate the creation of a vivid and dynamic flower. The program draws a blossoming flower with six petals, each showcasing a vibrant color spectrum reminiscent of a rainbow. Through a seamless blend of geometric patterns and color transitions, the project offers an interactive and visually captivating exploration of artistic expression using programming. </p>
 </div>
 
