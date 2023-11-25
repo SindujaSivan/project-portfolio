@@ -38,12 +38,12 @@
 </div>
 
 ## Visualization
-### [4. E-Commerce Revenue Management](https://link-to-your-project) 
-##### Skills & Tools Used : numpy, pandas, visualisation, user defined functions
+### [4. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
+##### Skills & Tools Used : turtle,colorsys
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
-<p align="justify" style="vertical-align:middle;"> Revitalized business intelligence for an E-Commerce Company by implementing a sophisticated analytical solution aimed at optimizing critical performance metrics. Utilizing Python for Data Science, I addressed a revenue management challenge and strategically identified the highest sales-generating region, discerned optimal product categories, calculated the company's overall revenue, and scrutinized brand performance on its platform. </p>
+  <img src="assets/Turtle_Floral.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+<p align="justify" style="vertical-align:middle;"> "RainbowFlowerArt" is an engaging Python project utilizing the Turtle graphics library to animate the creation of a vivid and dynamic flower. The program draws a blossoming flower with six petals, each showcasing a vibrant color spectrum reminiscent of a rainbow. Through a seamless blend of geometric patterns and color transitions, the project offers an interactive and visually captivating exploration of artistic expression using programming. </p>
 </div>
 
 ## Deep Learning
