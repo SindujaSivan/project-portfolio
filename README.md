@@ -9,29 +9,29 @@
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%;">
         <!-- Column 1 content goes here -->
-        - [Data Analysis](#data-analysis)
+        [Data Analysis](#data-analysis)
     </div>
     <div style="width: 30%;">
         <!-- Column 2 content goes here -->
-        - [Visualization](#visualization)
+        [Visualization](#visualization)
     </div>
     <div style="width: 30%;">
         <!-- Column 3 content goes here -->
-        - [Deep Learning](#DeepLearning) 
+        [Deep Learning](#DeepLearning) 
     </div>
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%;">
         <!-- Column 1 content goes here -->
-       - [Text Analytics](#TextAnalytics)
+       [Text Analytics](#TextAnalytics)
     </div>
     <div style="width: 30%;">
         <!-- Column 2 content goes here -->
-        - [Python](#python)
+        [Python](#python)
     </div>
     <div style="width: 30%;">
         <!-- Column 3 content goes here -->
-        - [Deep Learning](#DeepLearning) 
+        [Deep Learning](#DeepLearning) 
     </div>
 </div>
 <br>
