@@ -8,7 +8,7 @@
 
 [Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Data Visualization](#data-visualization) &nbsp;&nbsp;&nbsp;[Machine Learning](#machine-learning)
 
-[Text Analytics](#text-analytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
+[SQL](#SQL)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
@@ -53,8 +53,8 @@
 <p align="justify" style="vertical-align:middle;">This project involves developing an image classification and recognition system using the InceptionV3 deep learning model. Through transfer learning, the model is fine-tuned on a custom dataset for accurate classification. The user-friendly interface accepts image inputs, displaying detailed tabular results with top predictions and probabilities, accompanied by a visual representation of the classified images. The project aims to deliver an accessible and comprehensive tool for image understanding and classification. </p>
 </div>
 
-## Text Analytics 
-### [6. Quotable Sentiment Analysis](https://sindujasivan.github.io/Quotable-Sentiment-Analysis/) 
+## Machine Learning 
+### [6. Quotable Sentiment Text Analysis](https://sindujasivan.github.io/Quotable-Sentiment-Analysis/) 
 ##### Skills & Tools Used : pandas, requests, BeautifulSoup, re, nltk, stopwords, WordCloud, string, matplotlib.pyplot
 
 <div style="display:flex; align-items:center;">
