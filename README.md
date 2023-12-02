@@ -6,7 +6,7 @@
 ## Projects
 **Category**
 
-[Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Visualization](#visualization) &nbsp;&nbsp;&nbsp;[Deep Learning](#deep-learning)
+[Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Data Visualization](#data-visualization) &nbsp;&nbsp;&nbsp;[Machine Learning](#machine-learning)
 
 [Text Analytics](#text-analytics)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
 
@@ -35,7 +35,7 @@
 <p align="justify" style="vertical-align:middle;"> Conducted a comprehensive project in Market Segmentation utilizing advanced techniques such as Exploratory Data Analysis (EDA), clustering, and Principal Component Analysis (PCA). Through EDA, intricate patterns within complex datasets were unveiled, providing profound insights into underlying structures. Applied sophisticated clustering techniques to meticulously segment Digital Marketing Advertisement data, empowering the formulation of highly targeted marketing strategies. </p>
 </div>
 
-## Visualization
+## Data Visualization
 ### [4. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
 ##### Skills & Tools Used : turtle, colorsys
 
