@@ -1,28 +1,16 @@
-# theme: jekyll-theme-minimal
-# theme: jekyll-theme-lanyon
-layout: default
-theme: lanyon
-title: Sinduja S
-description: >
-  <h2>Data Scientist</h2>
-  <p>
-    <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank"> Sinduja S</a> 
-    <br>
-    <br>
-    <b>Skills:</b>
-    <ul>
-      <li>SQL</li>
-      <li>Python</li>
-      <li>Data Analysis</li>
-      <li>Machine Learning</li>
-      <li>Data Visualization</li>
-    </ul>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </p>
 ---
+layout: default
+title: Sai
+description: "Data Scientist with skills in SQL, Python, Data Analysis, Machine Learning, and Data Visualization."
+theme: lanyon
+---
+
+## Data Scientist
+
+**Skills:**
+
+- SQL
+- Python
+- Data Analysis
+- Machine Learning
+- Data Visualization
