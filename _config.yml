@@ -1,5 +1,6 @@
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-lanyon
+layout: default
 theme: lanyon
 title: Sinduja S
 description: >
