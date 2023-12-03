@@ -1,5 +1,6 @@
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-lanyon
+# theme: jekyll-theme-lanyon
+theme: lanyon
 title: Sinduja S
 description: >
   <h2>Data Scientist</h2>
