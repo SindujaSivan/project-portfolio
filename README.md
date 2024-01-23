@@ -8,7 +8,7 @@
 
 [Data Analysis](#data-analysis)  &nbsp;&nbsp;&nbsp;[Data Visualization](#data-visualization) &nbsp;&nbsp;&nbsp;[Machine Learning](#machine-learning)
 
-[SQL](#SQL)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deeplearning)
+[SQL](#sql)  &nbsp;&nbsp;&nbsp;[Python](#python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Deep Learning](#deep-learning)
 
 ## Data Analysis
 ### [1. Gems Price Prediction Using Linear Regression](https://link-to-your-project) 
@@ -59,7 +59,7 @@
 ##### Skills & Tools Used : Fetching and Filtering techniques to query the data ,Aggregating data using aggregate and window functions,Getting quicker insights using sub-queries and Case When functions,Joining the multiple tables using joins,Creating mathematical calculations using formulas in SQL queries, visualization, MYSQL
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/newwheels.png" alt="New_Wheels" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+  <img src="assets/New_Wheels.png" alt="New_Wheels" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
 <p align="justify" style="vertical-align:middle;"> Successfully navigated the New-Wheels Data Transformation project, employing advanced SQL techniques to extract actionable insights from diverse datasets. Applied a variety of data manipulation methodologies, including fetching, filtering, and aggregating, to delve deep into the intricacies of the dataset and derive meaningful conclusions.The project's focus on advanced SQL techniques mirrors the statistical methodologies used in EDA projects. By successfully transforming and analyzing the New-Wheels dataset, the project contributed to a holistic understanding of the data landscape and facilitated informed decision-making. </p>
 </div>
 
