@@ -27,16 +27,8 @@
   <p align="justify" style="vertical-align:middle;">Executed a dynamic project focused on predicting Holiday Package preferences employing advanced statistical techniques, specifically Logistic Regression and Linear Discriminative Analysis. Employing Logistic Regression, I precisely modeled and predicted the likelihood of customers opting for specific holiday packages based on a myriad of factors.</p>
 </div>
 
-### [3. Market Segmentation using Clustering and PCA](https://link-to-your-project) 
-##### Skills & Tools Used : EDA, Clustering, PCA, Data Mining, Silhouette Score, Segmentation
-
-<div style="display:flex; align-items:center;">
-  <img src="assets/dv.jpg" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
-<p align="justify" style="vertical-align:middle;"> Conducted a comprehensive project in Market Segmentation utilizing advanced techniques such as Exploratory Data Analysis (EDA), clustering, and Principal Component Analysis (PCA). Through EDA, intricate patterns within complex datasets were unveiled, providing profound insights into underlying structures. Applied sophisticated clustering techniques to meticulously segment Digital Marketing Advertisement data, empowering the formulation of highly targeted marketing strategies. </p>
-</div>
-
 ## Data Visualization
-### [4. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
+### [3. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
 ##### Skills & Tools Used : turtle, colorsys
 
 <div style="display:flex; align-items:center;">
@@ -45,7 +37,7 @@
 </div>
 
 ## Deep Learning
-### [5. Image Classification Using InceptionV3](https://sindujasivan.github.io/pretrained-inceptionv3-image-classification/) 
+### [4. Image Classification Using InceptionV3](https://sindujasivan.github.io/pretrained-inceptionv3-image-classification/) 
 ##### Skills & Tools Used : TensorFlow and Keras, pandas, Matplotlib
 
 <div style="display:flex; align-items:center;">
@@ -54,12 +46,21 @@
 </div>
 
 ## Machine Learning 
-### [6. Quotable Sentiment Text Analysis](https://sindujasivan.github.io/Quotable-Sentiment-Analysis/) 
+### [5. Quotable Sentiment Text Analysis](https://sindujasivan.github.io/Quotable-Sentiment-Analysis/) 
 ##### Skills & Tools Used : pandas, requests, BeautifulSoup, re, nltk, stopwords, WordCloud, string, matplotlib.pyplot
 
 <div style="display:flex; align-items:center;">
   <img src="assets/wordcloud.png" alt="WordCloud image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
 <p align="justify" style="vertical-align:middle;"> The project aims to address the challenge of efficiently analyzing and visualizing the sentiments expressed by different authors in the quotes by conducting sentiment analysis on a collection of quotes gathered from a prominent quote website. Through web scraping, we have obtained a dataset containing quotes along with their respective authors. The primary goal is to explore the sentiments conveyed by these authors and visualize the emotional tone of their quotes. </p>
+</div>
+
+## SQL
+### [6. NewWheels Manufacturers' data analysis using SQL]([https://link-to-your-project](https://sindujasivan.github.io/NewWheelsDataTransformationUsingSQL/)) 
+##### Skills & Tools Used : Fetching and Filtering techniques to query the data ,Aggregating data using aggregate and window functions,Getting quicker insights using sub-queries and Case When functions,Joining the multiple tables using joins,Creating mathematical calculations using formulas in SQL queries, visualization, MYSQL
+
+<div style="display:flex; align-items:center;">
+  <img src="assets/newwheels.png" alt="New_Wheels" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+<p align="justify" style="vertical-align:middle;"> Successfully navigated the New-Wheels Data Transformation project, employing advanced SQL techniques to extract actionable insights from diverse datasets. Applied a variety of data manipulation methodologies, including fetching, filtering, and aggregating, to delve deep into the intricacies of the dataset and derive meaningful conclusions.The project's focus on advanced SQL techniques mirrors the statistical methodologies used in EDA projects. By successfully transforming and analyzing the New-Wheels dataset, the project contributed to a holistic understanding of the data landscape and facilitated informed decision-making. </p>
 </div>
 
 ## Python
