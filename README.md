@@ -55,8 +55,8 @@
 </div>
 
 ## SQL
-### [6. NewWheels Manufacturers' data analysis using SQL]([https://link-to-your-project](https://sindujasivan.github.io/NewWheelsDataTransformationUsingSQL/)) 
-##### Skills & Tools Used : Fetching and Filtering techniques to query the data ,Aggregating data using aggregate and window functions,Getting quicker insights using sub-queries and Case When functions,Joining the multiple tables using joins,Creating mathematical calculations using formulas in SQL queries, visualization, MYSQL
+### [6. NewWheels Manufacturers' data analysis using SQL](https://sindujasivan.github.io/NewWheelsDataTransformationUsingSQL/)
+##### Skills & Tools Used : Fetching & Filtering data,Aggregating & Window functions,Sub-queries and Case When functions,Joining the multiple tables using joins,Creating mathematical calculations using formulas in SQL queries, visualization, MYSQL
 
 <div style="display:flex; align-items:center;">
   <img src="assets/New_Wheels.png" alt="New_Wheels" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
