@@ -32,8 +32,8 @@
 ##### Skills & Tools Used : pandas,NumPy,scikit-learn,Matplotlib,Seaborn,imbalanced-learn,machine learning models(SVM, Logistic Regression, KNN, Random Forest and Gradient Boosting)
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/accuracy.png" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
-  <p align="justify" style="vertical-align:middle;">"hurnPredictorML" is an insightful Python project centered around predictive modeling for customer churn in a telecom company. Leveraging popular machine learning algorithms such as Random Forest, Logistic Regression, SVM, Gradient Boosting, and KNN, the project aims to forecast customer churn based on diverse features like customer demographics, usage patterns, and feedback scores. To address class imbalance, Synthetic Minority Over-sampling Technique (SMOTE) has been applied. The project provides a comprehensive evaluation of each model's performance, highlighting accuracy, precision, recall, and F1-score, offering valuable insights into the effectiveness of different approaches in predicting and understanding customer churn</p>
+  <img src="assets/Accuracy.png" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+  <p align="justify" style="vertical-align:middle;">"ChurnPredictorML" is an insightful Python project centered around predictive modeling for customer churn in a telecom company. Leveraging popular machine learning algorithms such as Random Forest, Logistic Regression, SVM, Gradient Boosting, and KNN, the project aims to forecast customer churn based on diverse features like customer demographics, usage patterns, and feedback scores. To address class imbalance, Synthetic Minority Over-sampling Technique (SMOTE) has been applied. The project provides a comprehensive evaluation of each model's performance, highlighting accuracy, precision, recall, and F1-score, offering valuable insights into the effectiveness of different approaches in predicting and understanding customer churn</p>
 </div>
 
 ## Data Visualization
