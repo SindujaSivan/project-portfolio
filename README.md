@@ -46,7 +46,7 @@
 
 
 ## Data Visualization
-### [4. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
+### [5. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
 ##### Skills & Tools Used : turtle, colorsys
 
 <div style="display:flex; align-items:center;">
@@ -55,7 +55,7 @@
 </div>
 
 ## Deep Learning
-### [5. Image Classification Using InceptionV3](https://sindujasivan.github.io/pretrained-inceptionv3-image-classification/) 
+### [6. Image Classification Using InceptionV3](https://sindujasivan.github.io/pretrained-inceptionv3-image-classification/) 
 ##### Skills & Tools Used : TensorFlow and Keras, pandas, Matplotlib
 
 <div style="display:flex; align-items:center;">
@@ -64,7 +64,7 @@
 </div>
 
 ## SQL
-### [6. NewWheels Manufacturers' data analysis using SQL](https://sindujasivan.github.io/NewWheelsDataTransformationUsingSQL/)
+### [7. NewWheels Manufacturers' data analysis using SQL](https://sindujasivan.github.io/NewWheelsDataTransformationUsingSQL/)
 ##### Skills & Tools Used : Fetching & Filtering data,Aggregating & Window functions,Sub-queries and Case When functions,Joining the multiple tables using joins,Creating mathematical calculations using formulas in SQL queries, visualization, MYSQL
 
 <div style="display:flex; align-items:center;">
@@ -73,7 +73,7 @@
 </div>
 
 ## Python
-### [7. Python College Analytics](https://sindujasivan.github.io/Python-College-Analytics/)
+### [8. Python College Analytics](https://sindujasivan.github.io/Python-College-Analytics/)
 ##### Skills & Tools Used : numpy, pandas
 
 <div style="display:flex; align-items:center;">
