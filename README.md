@@ -36,6 +36,15 @@
   <p align="justify" style="vertical-align:middle;">"ChurnPredictorML" is an insightful Python project centered around predictive modeling for customer churn in a telecom company. Leveraging popular machine learning algorithms such as Random Forest, Logistic Regression, SVM, Gradient Boosting, and KNN, the project aims to forecast customer churn based on diverse features like customer demographics, usage patterns, and feedback scores. To address class imbalance, Synthetic Minority Over-sampling Technique (SMOTE) has been applied. The project provides a comprehensive evaluation of each model's performance, highlighting accuracy, precision, recall, and F1-score, offering valuable insights into the effectiveness of different approaches in predicting and understanding customer churn</p>
 </div>
 
+### [4. Forklift Maintenance Prediction Model](https://sindujasivan.github.io/Forklift-Maintenance-Prediction-Model/)
+##### Skills & Tools Used : pandas,NumPy,scikit-learn,Matplotlib,Seaborn,machine learning models(SVM, Logistic Regression, Random Forest and Gradient Boosting)
+
+<div style="display:flex; align-items:center;">
+  <img src="assets/Forklift_predictive_maintenance.png" alt="Description of the image" style="width:100px; height:100px; margin-right:10px; vertical-align:middle;">
+  <p align="justify" style="vertical-align:middle;">Forklift Maintenance Prediction Model is an insightful Python project centered around predictive modeling for proactive maintenance in a manufacturing company. Leveraging popular machine learning algorithms such as Random Forest, Logistic Regression, SVM, Gradient Boosting,the project aims to predict if the forklifts require a maintenance based on the input features and the historical data.</p>
+</div>
+
+
 ## Data Visualization
 ### [4. Rainbow Floral Drawing Using Turtle Graphics](https://sindujasivan.github.io/TurtleGraphicsFloral/) 
 ##### Skills & Tools Used : turtle, colorsys
